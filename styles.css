@@ -1,0 +1,138 @@
+#welcome{
+    width:103px;
+    height:31px;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2%;
+    margin-bottom:3%;
+}
+
+#signinbox{
+    border:1px solid black;
+    width:348px;
+    height:280px;
+    padding:1%;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+
+h1{
+    text-align:left;
+    margin-top:1px;
+    margin-bottom:10px;
+}
+
+#email{
+    margin-bottom: 15px;
+    padding-top:3px;
+    padding-bottom:3px;
+    padding-left: 7px;
+    padding-right:7px;
+}
+
+
+#password{
+    margin-bottom: 15px;
+    padding-top:3px;
+    padding-bottom:3px;
+    padding-left: 7px;
+    padding-right:7px;
+}
+
+#top{
+    display:flex;
+    justify-content:center;
+}
+
+.signin{
+    width:100%;
+}
+
+form{
+    width:85%;
+}
+
+#continue{
+    width:313.8px;
+    height:26px;
+    margin-bottom:25px;
+    background-color: rgb(209, 137, 21);
+}
+
+input{
+    margin-top:5px;
+    margin-bottom:5px;
+}
+
+#link{
+    float:right;
+}
+
+a{
+    text-decoration: none;
+}
+
+hr{
+    width: 30%;
+}
+
+.buttondiv{
+    display:flex;
+    justify-content: center;
+    padding-top:15px;
+    margin-bottom:50px;
+}
+
+button{
+    width:313.8px;
+    padding: 5px;
+}
+
+hr{
+    width:100%;
+}
+
+.bottom{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+article{
+    display: flex;
+    text-decoration: none;
+    list-style:none;
+    justify-content: center;
+    width: 20%;
+    gap: 30px;
+    margin-bottom: 20px;
+}
+
+#divider-shell{
+    display:flex;
+    justify-content: center;
+    align-items: baseline;
+    margin-top:15px;
+}
+
+.divider{
+    color:black;
+    height: 10px;
+    width: 20px;
+
+}
+
+#one{
+    width:100px;
+    margin:0;
+    border-top: 3px solid #bbb;
+    margin-right: 5px;
+}
+
+#two{
+    width:100px;
+    margin:0;
+    border-top: 3px solid #bbb;
+    margin-left: 5px;
+}
